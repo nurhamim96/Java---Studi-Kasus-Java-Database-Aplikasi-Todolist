@@ -1,0 +1,13 @@
+service/TodolistService.class
+view/TodolistView.class
+repository/TodolistRepository.class
+AplikasiTodolist.class
+util/InputUtil.class
+util/DatabaseUtil.class
+entity/Todolist.class
+service/TodolistServiceImpl.class
+com/tutorial/todolist/App.class
+AplikasiTodolistV2.class
+repository/TodolistRepositoryImpl.class
+test/view/TodolistViewTest.class
+test/service/TodolistServiceTest.class
